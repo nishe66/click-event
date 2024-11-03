@@ -54,7 +54,7 @@ let commentSection = document.getElementById("div1")
            inputField.value = "";
            
            
-           console.log(newComment);
+         }
+     });
+       
            
-       }
-   });
